@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@farcaster/frame-sdk": "^0.0.16",
     "autoprefixer": "^10.4.20",
     "next": "15.1.0",
     "postcss": "^8.4.49",
